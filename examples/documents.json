@@ -1,0 +1,19 @@
+[
+  {
+    "id": "vacation-policy",
+    "title": "Vacation policy",
+    "text": "Employees receive 20 days of paid vacation each year. Submit vacation requests to your manager at least two weeks before the first day of leave.",
+    "url": "https://example.com/handbook/vacation",
+    "date": "2026-01-01",
+    "categories": ["People"],
+    "tags": ["vacation", "leave"]
+  },
+  {
+    "id": "expense-policy",
+    "title": "Expense reimbursements",
+    "text": "Submit business expense receipts within 30 days. Approved reimbursements are included in the next payroll payment. Expenses over 500 dollars require advance manager approval.",
+    "url": "https://example.com/handbook/expenses",
+    "date": "2026-01-01",
+    "categories": ["Finance"]
+  }
+]

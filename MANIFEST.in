@@ -1,0 +1,3 @@
+include Dockerfile .dockerignore
+recursive-include examples *.json *.example
+prune tests

@@ -1,0 +1,11 @@
+*
+!Dockerfile
+!pyproject.toml
+!README.md
+!plugrag/
+!plugrag/**
+!lens_rag/
+!lens_rag/**
+!examples/
+!examples/documents.json
+**/__pycache__/
